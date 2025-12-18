@@ -10,19 +10,19 @@
   <img src="https://github.com/user-attachments/assets/755e7317-3de6-4e47-8132-2b7c78ad03c6" width="200" alt="Splash Screen">
 </p>
 
-### Календарь Тренировк (Ноябрь)
+### Выбор подписки
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9830e7f-f0c6-4261-b830-6417567f2b2e" width="200" alt="Splash Screen">
 </p>
 
-### Детали Тренировок с Датой
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/45b2dde0-c0bc-460b-8871-5a5a1d92b437" width="200" alt="Splash Screen">
-</p>
-
-### График Пульса и Скорости
+### Покупка подписки
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5313a0e6-7179-4899-8c4d-36c33046018e" width="200" alt="Splash Screen">
+</p>
+
+### Возможности Подписки
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45b2dde0-c0bc-460b-8871-5a5a1d92b437" width="200" alt="Splash Screen">
 </p>
 
 
