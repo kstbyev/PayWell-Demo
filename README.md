@@ -17,7 +17,7 @@
 
 ### Покупка подписки
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5313a0e6-7179-4899-8c4d-36c33046018e" width="200" alt="Splash Screen">
+  <img src="https://github.com/user-attachments/assets/2e3fcdeb-df69-499b-b236-a664d10c4fcb" width="200" alt="Splash Screen">
 </p>
 
 ### Возможности Подписки
